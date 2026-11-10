@@ -1,3 +1,6 @@
+### https://wierzba.wzks.uj.edu.pl/~25_dawid/dh/bazy-danych/
+
+
 # Laboratoria: Bazy Danych i Systemy Interakcyjne
 ### Elektroniczne Przetwarzanie Informacji (EPI) – Uniwersytet Jagielloński
 
